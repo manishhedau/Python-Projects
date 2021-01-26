@@ -1,0 +1,10 @@
+# for check your system internet speed and uploading speed 
+
+# first of all you need to install one package name is 'speed-cli'
+pip install speed-cli
+
+And to check your internet speed so go to the command prompt or terminal and type
+'speed-cli' 
+
+And this command will tell your host server(sim name, server city) 
+and your system download speed as well uploading speed
